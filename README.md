@@ -1,6 +1,5 @@
 ## Port
 
--Landing page Summer-sub [watch](zakir23.github.io/port/)
--a simple one-page website
--adaptive for all devices
-
+1. Landing page Summer-sub [Watch](https://zakir23.github.io/port)
+2. A simple one-page website
+3. Adaptive for all devices
